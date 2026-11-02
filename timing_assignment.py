@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 sizes = [100, 200, 300, 400, 500]
 times = []
 
-for size in sizes:
+for size in sizes:      //This loop takes each value from sizes, one at a time.
 
     arr = []
 
